@@ -1,0 +1,65 @@
+{
+  "name": "xyz.com",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MSA",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-image-resize": "^0.10.0",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-save": "^1.2.1",
+    "imagemin": "^5.2.2",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.1.1",
+    "imagemin-pngquant": "^5.0.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "bower": "latest",
+    "browserify": "latest",
+    "gulp": "latest",
+    "gulp-babel": "latest",
+    "gulp-clean": "latest",
+    "gulp-coffee": "latest",
+    "gulp-combine-media-queries": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-csscomb": "^3.0.7",
+    "gulp-csso": "^2.0.0",
+    "gulp-eslint": "latest",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-if": "latest",
+    "gulp-inject": "latest",
+    "gulp-livereload": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-open": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sitemap": "^4.1.1",
+    "gulp-sourcemaps": "latest",
+    "gulp-traceur": "latest",
+    "gulp-tsd": "^0.1.1",
+    "gulp-uglify": "latest",
+    "gulp-uncss": "^1.0.5",
+    "gulp-util": "latest",
+    "gulp-watch": "latest",
+    "gulp-webp": "^2.1.1",
+    "gulp-webserver": "latest",
+    "install": "latest",
+    "lodash": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulchill/angular-material-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulchill/angular-material-template/issues"
+  },
+  "homepage": "https://github.com/paulchill/angular-material-template#readme",
+  "description": ""
+}

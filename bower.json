@@ -1,0 +1,23 @@
+{
+  "name": "xyz.com",
+  "authors": [
+    "Shahnawaz <mshahnawaz99356@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9",
+    "highcharts-ng": "^0.0.12",
+    "highcharts": "^4.2.6"
+  }
+}
