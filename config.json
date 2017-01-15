@@ -9,7 +9,7 @@
     },
     "css": {
       "src" : [
-			  "../bower_components/angular-material/angular-material.css",
+			  "./bower_components/angular-material/angular-material.css",
         "app/src/css/*.css"
       ],
       "dist" : "dist/css/"
@@ -29,14 +29,14 @@
  },
 
  "vendors": [ 
-   	"../bower_components/angular/angular.js",
-		"../bower_components/angular-material/angular-material.js",
-    "../bower_components/angular-animate/angular-animate.js",
-    "../bower_components/angular-aria/angular-aria.js",
-    "../bower_components/highcharts/highcharts.src.js",
+   	"./bower_components/angular/angular.js",
+		"./bower_components/angular-material/angular-material.js",
+    "./bower_components/angular-animate/angular-animate.js",
+    "./bower_components/angular-aria/angular-aria.js",
+    "./bower_components/highcharts/highcharts.src.js",
     "http://code.highcharts.com/maps/modules/map.js", 
     "http://code.highcharts.com/mapdata/custom/world.js",
-    "../bower_components/highcharts-ng/dist/highcharts-ng.min.js"
+    "./bower_components/highcharts-ng/dist/highcharts-ng.min.js"
   ]
 }
 
